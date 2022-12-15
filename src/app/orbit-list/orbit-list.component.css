@@ -21,6 +21,12 @@ table {
 	color: #fff
 }
 
+.data-row:nth-child(odd) {
+	background: rgb(207, 230, 244);
+}
+
+
+
 th, td {
 	text-align: left;
 	margin: 5px 10px;
